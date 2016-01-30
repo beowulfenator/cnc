@@ -1,11 +1,12 @@
 <!doctype html>
 <html>
-  {% include head.html username="jekyll" %}
+  {% include head.html %}
   <body>
     <div class="wrapper">
       <header>
         <h1>{{ site.title }}</h1>
         <p>{{ site.description }}</p>
+        <p><a href="{{ site.url }}">На главную</a></p>
       </header>
       <section>
         {{ content }}
