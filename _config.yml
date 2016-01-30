@@ -8,8 +8,7 @@
 # Site settings
 title: Дилетанты строят станок
 email: beowulfenator@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Блог о проектировнии и изготовлении фрезерного станка с ЧПУ
+description: Блог о проектировании и изготовлении фрезерного станка с ЧПУ
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cnc.sirotkin.com.ua" # the base hostname & protocol for your site
 
